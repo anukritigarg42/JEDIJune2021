@@ -7,4 +7,5 @@ void add(){
 	int x=10;
 	int y=20;
 	printf(x+y);
+	printf("EDITED");
 }
