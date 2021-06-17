@@ -9,6 +9,4 @@ void add(){
 	printf(x+y);
 	printf("EDITED");
 }
-
-
-MODIFYING THIS LINE IN LOCAL REPO
+CONFLICT RESOLVED
